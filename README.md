@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+#Bu proje de apiden gelen verilerler çalışmayı ögrendim 
+#ufak bır anımasyon kullandım Hero ile Stack yapısı kullandım 
+
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
